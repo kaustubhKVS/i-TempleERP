@@ -1,0 +1,42 @@
+
+{"inputs": [
+    {"owners_before": ["5K29TXPvUZk3owq6RcMhZh4wySEEXybBWHhn3PNccxZA"],
+     "fulfills": null, "fulfillment": "pGSAIEAMf3Lh5IrBNVewW5Qj39i4Rxs8OffMyjvZz1hv08BNgUBPkWe6cVEo1bhubUVHhetq7NJSKZv3FS7iYyuJY5M7EGO2WSbSOCQm61FQF8F3MlVOKKohn5DjnU1Kn2pXyRsB"}
+], "outputs": [
+    {"public_keys": ["G3f62eUKinLJLk7srxwf8VoMfUayfDY5FTnnWRboziXs"],
+     "condition": {
+        "details": {"type": "ed25519-sha-256",
+                    "public_key": "G3f62eUKinLJLk7srxwf8VoMfUayfDY5FTnnWRboziXs"},
+        "uri": "ni:///sha-256;Jp0XDIp0tS4Sv7mGmN5ZudRebEl-vO8vKjG1QrIoNc0?fpt=ed25519-sha-256&cost=131072"},
+     "amount": "3"}],
+    "operation": "CREATE",
+    "metadata": null,
+    "asset": {"data": {
+        "nft_name": "Lok",
+        "ipfs_file_url": "www.wsdvc.vom",
+        "creator_name": "Dodo",
+        "supply": 3,
+        "description": "Lolo",
+        "cost": 2.0,
+        "currency": "ETH",
+        "creator_external_link": "dlkcnlkcsa",
+        "view": 0,
+        "tx_id": ""}},
+    "version": "2.0", "id": "39e3203bde89ed532d352f1934325cb8f81fbf62b2484f33d4349666041a6d0b"}
+
+
+client get value = {"inputs": [{
+    "owners_before": ["G1FAoDXJ9M8qafw4kJXHd7wptytD2RGJcDABkqLM8QKZ"],
+    "fulfills": {"transaction_id": "70a46a2b935d84b0d56863c7a8f3b38a8f4f4a8bb296498c931f303f81b4f78f",
+    "output_index": 0},
+    "fulfillment": "pGSAIN7vUyHA--RUYx3vGI9UWyMsnIN537WFjHLHNHNAeAUogUAJAETpGh80nChxZoYSmY9ux50naNFa3khvOuAUGfpfJObOERH8fEXBO6segzg-qeNfFCcJK8YzKcW6gwtf27YE"}], 
+    "outputs": [
+        {"public_keys": ["G1FAoDXJ9M8qafw4kJXHd7wptytD2RGJcDABkqLM8QKZ"],
+        "condition": 
+        {"details": {"type": "ed25519-sha-256", "public_key": "G1FAoDXJ9M8qafw4kJXHd7wptytD2RGJcDABkqLM8QKZ"},
+        "uri": "ni:///sha-256;YhlIBLKdDGrTJcw1T5NjGZFD3D-SoWAeUVmV7SpxiCI?fpt=ed25519-sha-256&cost=131072"},
+        "amount": "1"}],
+        "operation": "TRANSFER", 
+        "metadata": {"data": ["39e3203bde89ed532d352f1934325cb8f81fbf62b2484f33d4349666041a6d0b"]},
+        "asset": {"id": "70a46a2b935d84b0d56863c7a8f3b38a8f4f4a8bb296498c931f303f81b4f78f"},
+        "version": "2.0", "id": "942bed5efbf2cac5bbe6114cb4dba5de998ac855b4e8862ff4a2e68b4fe7ed1c"}

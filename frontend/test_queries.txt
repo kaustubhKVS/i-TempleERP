@@ -1,0 +1,7 @@
+
+curl -X 'POST' \
+  'http://127.0.0.1:8000/api/transfer_one_nft/?nft_asset_id=87d81442697fc8bd1e6f15a92760ad892e5d47dc090be46c6467883427d5e7f2&owner_pub_key=FDyZGUVuKGRqs6NA9Me9PrRXB7dmk4GKa6DEYJoPEssG&owner_pvt_key=AG8gfNGwfLbVXkCbFtAoVdfVbDCxhfztVmqTf5UCXKTF&reciever_pub_key=A2YeogUDXKbnBoaUjTHdHaZv3Fnstf14KrMYJcb8zvz5' \
+  -H 'accept: application/json' \
+  -d ''
+
+  http://127.0.0.1:8000/api/transfer_one_nft/?nft_asset_id=87d81442697fc8bd1e6f15a92760ad892e5d47dc090be46c6467883427d5e7f2&owner_pub_key=FDyZGUVuKGRqs6NA9Me9PrRXB7dmk4GKa6DEYJoPEssG&owner_pvt_key=AG8gfNGwfLbVXkCbFtAoVdfVbDCxhfztVmqTf5UCXKTF&reciever_pub_key=A2YeogUDXKbnBoaUjTHdHaZv3Fnstf14KrMYJcb8zvz5

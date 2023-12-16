@@ -1,0 +1,71 @@
+{
+  "nft_name": "dodo",
+  "ipfs_file_url": "dodo",
+  "creator_name": "dodo",
+  "supply": 10,
+  "description": "dodo",
+  "cost": 10,
+  "currency": "dodo",
+  "creator_external_link": "dodo",
+  "view": 11
+}
+
+{
+  "nft_name": "Monkey Dance",
+  "ipfs_file_url": "https://www.youtube.com/watch?v=opyPkipNNhE",
+  "creator_name": "KoKo",
+  "creator_external_link": "https://github.com/kaustubhKVS",
+  "supply": 10,
+  "description": "New Monkey Videos",
+  "cost": 5,
+  "currency": "BTC",
+  "view": 2,
+  "tx_id": "NULL"
+}
+
+
+
+{
+  "inputs": [
+    {
+      "owners_before": [
+        "GS8uzYc7oPzgSrdVrtHxeS5hdP5YZNHLy3VSh4JgZQmB"
+      ],
+      "fulfills": null,
+      "fulfillment": "pGSAIOVPxankQiZ23HTlA0mCZphNhh-AF55k7oC4U0XQMAoOgUDWdsn1CA4slGNd6-X8n57ThL8wxF1ge8Qj8wOyziwnQ0JaigHDh2QL5JQSbJfk1OxXzW3_1m0miHFS_l0QK5IP"
+    }
+  ],
+  "outputs": [
+    {
+      "public_keys": [
+        "5J6Y1QvHra5KN4iCdG7PJ8iNmhmPFCJfggYVFVFVP6e3"
+      ],
+      "condition": {
+        "details": {
+          "type": "ed25519-sha-256",
+          "public_key": "5J6Y1QvHra5KN4iCdG7PJ8iNmhmPFCJfggYVFVFVP6e3"
+        },
+        "uri": "ni:///sha-256;I4R8wSygouuW6-FjnQuU6W1nrZy_EJdoyx1-kRTFFak?fpt=ed25519-sha-256&cost=131072"
+      },
+      "amount": "10"
+    }
+  ],
+  "operation": "CREATE",
+  "metadata": null,
+  "asset": {
+    "data": {
+      "nft_name": "Monkey Dance",
+      "ipfs_file_url": "https://www.youtube.com/watch?v=opyPkipNNhE",
+      "creator_name": "KoKo",
+      "supply": 10,
+      "description": "New Monkey Videos",
+      "cost": 5,
+      "currency": "BTC",
+      "creator_external_link": "https://github.com/kaustubhKVS",
+      "view": 2,
+      "tx_id": "NULL"
+    }
+  },
+  "version": "2.0",
+  "id": "d4f2e73355c4f5cd233a87ceab04ac2c39696c09b93bc6ce637f05eee8b8fa87"
+}
