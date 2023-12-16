@@ -1,5 +1,5 @@
-# The "transaction confirmation" a "NFT"? "...creating one NFT per transaction"...? Is this confirmation just a hash?
-While engaging in decentralized application development, I've established a coding principle, endorsed by Dr. Sadoghi from the ResDB Lab, that facilitates the conversion of any centralized application into a decentralized one. This involves the transformation of a conventional SQL-based context into a Blockchain framework.
+# The "transaction confirmation" a "NFT"? More info on "Creating one NFT per transaction"...? Is this confirmation just a hash?
+While engaging in decentralized application development, I've established a coding principle, endorsed by Dr Sadoghi from the ResDB Lab, that facilitates the conversion of any centralized application into a decentralized one. This involves the transformation of a conventional SQL-based context into a Blockchain framework.
 
 Let's delve into the process with step-by-step examples:
 
@@ -53,8 +53,8 @@ Let's delve into the process with step-by-step examples:
 
 In this approach, each transaction recorded results in the minting of an NFT containing relevant information (Name, Amount, Occasion) in the Blockchain ledger. This methodology is inspired by MongoDB's document-centric storage, where each entry is stored as a file document with its properties in a single file, forming a collection of files treated as a database.
 
-# Use of General US survey to make predictions for you Indian temple
-The predictive model, utilizing Meta's Prophet, is designed to forecast the number of visitors to a temple on a specific day. In the absence of direct data from the Indian context, a pragmatic approach was taken by leveraging data from a US survey that monitored the attendance at social gatherings in the United States. This dataset was employed as the training data for a rapid proof-of-concept.
+# Use of General US survey to make predictions for Indian temple
+The predictive model, utilizing Meta's Prophet, is designed to forecast the number of visitors to a temple on a specific day. In the absence of direct data from the Indian context, a pragmatic approach was taken by leveraging data from a US survey that monitored attendance at social gatherings in the United States. This dataset was employed as the training data for a rapid proof-of-concept.
 Let's break down the steps and considerations:
 
 1. **Choice of Predictive Model:**
