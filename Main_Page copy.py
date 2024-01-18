@@ -5,8 +5,9 @@ from PIL import Image
 
 st.set_page_config(page_title="Hotel Booking", page_icon=":office:")
 
-st.title('Welcome to D Hostel Room Booking System Prototype for AMBPPCT')
-st.write("Accommodation facilities at Meherabad are dedicated to Avatar Meher Baba and are available for Baba-lovers on pilgrimage")
+st.title('Welcome to Four Seasons Hotel')
+st.write("The Four Seasons Hotel offers luxurious guest rooms, elegant dining options, a fitness center, "
+         "spa, and indoor pool. Perfect choice for a memorable stay.")
 st.write("---")
 
 one = st.empty()
